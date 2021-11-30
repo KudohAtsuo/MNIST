@@ -1,0 +1,2 @@
+# MNIST
+KerasのMNISTのdatasetを使って複数の分類をDeepLearningで行った
